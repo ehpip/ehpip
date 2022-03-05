@@ -1,4 +1,4 @@
-<h1>Hello, I’m @ehpip</h1>
+<h1>Hello, I’m @ehpip :)</h1>
 
 <!---
 ehpip/ehpip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
