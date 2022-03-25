@@ -32,8 +32,6 @@
 
 [![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=ehpip&theme=dark&hide=html)](https://github.com/ehpip?tab=follow)
 
-[![Muhammad Afif's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ehpip&layout=compact&theme=dark)](https://github.com/ehpip?tab=follow)
-
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ehpip&theme=dark&count_private=true&show_icons=true&line_height=20px)](https://github.com/ehpip?tab=follow)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ehpip&" alt="ehpip" /></p>
