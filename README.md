@@ -34,7 +34,7 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ehpip&theme=dark&count_private=true&show_icons=true&line_height=20px)](https://github.com/ehpip?tab=follow)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ehpip&" alt="ehpip" /></p>
+[![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=ehpip&&theme=dark&)](https://github.com/ehpip?tab=follow)
 
 <!---
 ehpip/ehpip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
